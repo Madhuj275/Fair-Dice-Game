@@ -32,7 +32,7 @@ A modern, provably fair dice game built with React and TypeScript. This game imp
 ## Technical Stack
 
 - React 18
-- TypeScript
+- Node.js
 - Tailwind CSS
 - Ethers.js for Ethereum integration
 - Vite for build tooling
